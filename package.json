@@ -1,0 +1,27 @@
+{
+  "name": "budgettracker",
+  "version": "1.0.0",
+  "description": "budget tracker application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lankesh16/Budget-Tracker.git"
+  },
+  "author": "Lankesh De Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lankesh16/Budget-Tracker.git"
+  },
+  "homepage": "https://github.com/lankesh16/Budget-Tracker.git#README",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "lite-server": "^2.5.3",
+    "mongoose": "^5.5.15",
+    "morgan": "^1.9.1"
+  }
+}
